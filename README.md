@@ -1,35 +1,64 @@
-<!-- Profile Stats Section -->
+<!-- Header -->
+<h1 align="center">Hi, I'm Andrew 👋</h1>
+<p align="center">
+  <a href="https://github.com/andrewzapps">
+    <img src="https://komarev.com/ghpvc/?username=andrewzapps&style=for-the-badge&label=Profile+Views" alt="profile views"/>
+  </a>
+  <!-- Optional unique hits counter -->
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandrewzapps&title=Unique+Visits&edge_flat=false" alt="unique hits"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="<YOUR_LINKEDIN_URL>"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="mailto:<YOUR_EMAIL>"><img alt="Email" src="https://img.shields.io/badge/Email-333?logo=gmail&logoColor=white&style=for-the-badge"></a>
+  <a href="<YOUR_PORTFOLIO_URL>"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111?logo=vercel&logoColor=white&style=for-the-badge"></a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=andrewzapps&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" 
-       height="180em" 
-  />
+  <!-- Overall stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=andrewzapps&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
+    height="160" />
 
-  <!-- Top Languages -->
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewzapps&layout=compact&theme=tokyonight" 
-       height="180em" 
-  />
+  <!-- Top languages (requires public repos with code) -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewzapps&layout=compact&langs_count=8&theme=tokyonight"
+    height="160" />
 
-  <!-- Contribution Streak -->
-  <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=andrewzapps&theme=tokyonight&hide_border=false" 
-       height="180em" 
-  />
-
+  <!-- Streak -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=andrewzapps&theme=tokyonight"
+    height="160" />
 </div>
 
 ---
 
-<!-- Profile Summary Card -->
 ## 🧠 Profile Summary
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrewzapps&theme=tokyonight)
 
-<!-- Optional Language Breakdown Card -->
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrewzapps&theme=tokyonight)
+<!-- Optional: productivity by time of day -->
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andrewzapps&theme=tokyonight&utcOffset=-4)
 
-<!-- Optional Commits per Day Card -->
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andrewzapps&theme=tokyonight&utcOffset=8)
+---
+
+## 📌 Pinned Projects
+<p align="center">
+  <!-- Replace RepoName with your public repos -->
+  <a href="https://github.com/andrewzapps/<RepoName1>">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewzapps&repo=<RepoName1>&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/andrewzapps/<RepoName2>">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewzapps&repo=<RepoName2>&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech
+Python · TypeScript · Java · React · Node.js · Git · Linux · VS Code

@@ -1,5 +1,10 @@
 <!-- Header -->
-<h1 align="center">Hi, I'm Andrew 👋</h1>
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Andrew+👋;Full-Stack+Developer;AI+and+Tech+Enthusiast;Always+Learning+Something+New" 
+    alt="Typing SVG" 
+  />
+</h1>
 <p align="center">
   <a href="https://github.com/andrewzapps">
     <img src="https://komarev.com/ghpvc/?username=andrewzapps&style=for-the-badge&label=Profile+Views" alt="profile views"/>
@@ -17,8 +22,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
 <div align="center">
 
   <!-- Overall stats -->

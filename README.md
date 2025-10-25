@@ -26,10 +26,10 @@
 
 <!-- Profile Summary Card -->
 ## 🧠 Profile Summary
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrewzapps&theme=tokyonight)
 
 <!-- Optional Language Breakdown Card -->
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrewzapps&theme=tokyonight)
 
 <!-- Optional Commits per Day Card -->
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight&utcOffset=8)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andrewzapps&theme=tokyonight&utcOffset=8)

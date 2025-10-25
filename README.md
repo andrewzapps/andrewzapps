@@ -45,7 +45,7 @@
 ---
 
 
-## 📌 Pinned Projects
+## projects
 <p align="center">
   <a href="https://github.com/andrewzapps/YourRepo1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewzapps&repo=YourRepo1&theme=tokyonight" />

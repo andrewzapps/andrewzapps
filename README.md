@@ -4,19 +4,19 @@
 
   <!-- GitHub Stats -->
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" 
+       src="https://github-readme-stats.vercel.app/api?username=andrewzapps&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" 
        height="180em" 
   />
 
   <!-- Top Languages -->
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewzapps&layout=compact&theme=tokyonight" 
        height="180em" 
   />
 
   <!-- Contribution Streak -->
   <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=andrewzapps&theme=tokyonight&hide_border=false" 
        height="180em" 
   />
 

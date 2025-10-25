@@ -44,12 +44,6 @@
 
 ---
 
-## 🧠 Profile Summary
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrewzapps&theme=tokyonight)
-
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andrewzapps&theme=tokyonight&utcOffset=-4)
-
----
 
 ## 📌 Pinned Projects
 <p align="center">

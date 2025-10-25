@@ -1,16 +1,35 @@
-## Hi there 👋
+<!-- Profile Stats Section -->
+## 📊 GitHub Stats
+<div align="center">
 
-<!--
-**andrewzapps/andrewzapps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- GitHub Stats -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" 
+       height="180em" 
+  />
 
-Here are some ideas to get you started:
+  <!-- Top Languages -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" 
+       height="180em" 
+  />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Contribution Streak -->
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false" 
+       height="180em" 
+  />
+
+</div>
+
+---
+
+<!-- Profile Summary Card -->
+## 🧠 Profile Summary
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight)
+
+<!-- Optional Language Breakdown Card -->
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight)
+
+<!-- Optional Commits per Day Card -->
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight&utcOffset=8)

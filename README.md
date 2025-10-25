@@ -12,14 +12,14 @@
 
 <!-- Socials (Optional) -->
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-333?logo=gmail&logoColor=white&style=for-the-badge"></a>
+  <a href="mailto:andrewliu812@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-333?logo=gmail&logoColor=white&style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
   <a href="https://YOUR_PORTFOLIO_URL.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111?logo=vercel&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## stats
 <div align="center">
 
   <!-- Overall stats -->

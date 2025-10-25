@@ -1,11 +1,10 @@
 <!-- Animated Typing Header -->
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Andrew+👋;Full-Stack+Developer;AI+and+Tech+Enthusiast;Always+Learning+Something+New" 
-    alt="Typing SVG" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Andrew+%F0%9F%91%8B;Full-Stack+Developer;AI+and+Tech+Enthusiast;Always+Learning+Something+New"
+    alt="Hi, I'm Andrew 👋"
   />
 </h1>
-
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=andrewzapps&style=for-the-badge&label=Profile+Views" alt="Profile views"/>

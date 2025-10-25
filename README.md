@@ -57,7 +57,3 @@
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** Python · TypeScript · Java · C++  
-**Frameworks:** React · Node.js · Express · Flask  
-**Tools:** Git · VS Code · Linux · Docker · Figma
